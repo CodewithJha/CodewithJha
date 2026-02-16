@@ -16,34 +16,24 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Data Processing & Streaming**
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Languages & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Visualization & BI**
 ![Redash](https://img.shields.io/badge/Redash-FB542B?style=for-the-badge&logo=redash&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -63,37 +53,42 @@
 
 ## 🔥 Featured Projects
 
-### **Ekacare ETL Dashboard**
-**Redash + BigQuery | Real-time Healthcare Data Visualization**
-- Built interactive dashboards for healthcare metrics using Redash
-- Optimized BigQuery queries reducing execution time by 60%
-- Implemented automated ETL pipelines for patient data processing
+### **LinkedIn Scraper (Personal Job Pipeline)**
+**Playwright + Express | CSV exports**
+- Automated LinkedIn job scraping runs + simple UI to trigger runs/download exports
+- Multi-keyword search + time filters (past 24h / past week)
 
-[![View Project](https://img.shields.io/badge/View-Project-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/ekacare-etl-dashboard)
+[![Repo](https://img.shields.io/badge/Repo-linkedin--scrapper-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/linkedin-scrapper)
+![Stars](https://img.shields.io/github/stars/CodewithJha/linkedin-scrapper?style=social)
 
-### **Kafka-Redshift Pipeline**
-**Real-time Data Streaming | Python + AWS S3**
-- Designed and implemented Kafka connectors for real-time data ingestion
-- Built automated ETL pipeline from Kafka → S3 → Redshift
-- Handled 1M+ records/day with 99.9% uptime
+### **AI CloudOps**
+**Python | FastAPI dashboard + Tkinter GUI**
+- Modular CloudOps tooling with safe `.env` config (no secrets committed)
+- Web dashboard + desktop GUI structure for extending features
 
-[![View Project](https://img.shields.io/badge/View-Project-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/kafka-redshift-pipeline)
+[![Repo](https://img.shields.io/badge/Repo-AI--Cloudops-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/AI-Cloudops)
+![Stars](https://img.shields.io/github/stars/CodewithJha/AI-Cloudops?style=social)
 
-### **SQL Optimization Repository**
-**Advanced SQL Techniques | Performance Benchmarking**
-- Collection of optimized SQL queries using CTEs, Window Functions, and Indexing
-- Performance benchmarks comparing different query approaches
-- Real-world examples from production environments
+### **Computer Vision Drawing**
+**OpenCV + MediaPipe**
+- Hand-tracking based drawing/erase workflow using webcam input
 
-[![View Project](https://img.shields.io/badge/View-Project-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/sql-optimization)
+[![Repo](https://img.shields.io/badge/Repo-computervisiondrawing-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/computervisiondrawing)
+![Stars](https://img.shields.io/github/stars/CodewithJha/computervisiondrawing?style=social)
 
-### **AWS ETL Pipeline Framework**
-**Scalable Data Processing | Serverless Architecture**
-- Serverless ETL framework using AWS Lambda, S3, and Redshift
-- Automated data quality checks and error handling
-- Cost-optimized architecture reducing infrastructure costs by 40%
+### **Computer Vision Game**
+**OpenCV + Hand Tracking**
+- Webcam hand-gesture controls for interactive gameplay experiments
 
-[![View Project](https://img.shields.io/badge/View-Project-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/aws-etl-framework)
+[![Repo](https://img.shields.io/badge/Repo-computervisiongame-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/computervisiongame)
+![Stars](https://img.shields.io/github/stars/CodewithJha/computervisiongame?style=social)
+
+### **AWS S3 Browser**
+**Python + Tkinter + boto3**
+- Simple desktop app to browse/manage S3 with a GUI
+
+[![Repo](https://img.shields.io/badge/Repo-awss3-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/awss3)
+![Stars](https://img.shields.io/github/stars/CodewithJha/awss3?style=social)
 
 ---
 
