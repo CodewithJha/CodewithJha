@@ -55,7 +55,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodewithJha&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithJha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithJha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&langs_count=10&exclude_repo=CodewithJha)
 
 </div>
 
@@ -101,9 +101,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/CodewithJha/CodewithJha/blob/output/github-contribution-grid-snake.svg)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodewithJha&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff)
+![Snake animation](https://raw.githubusercontent.com/CodewithJha/CodewithJha/output/github-contribution-grid-snake.svg)
 
 </div>
 
