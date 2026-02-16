@@ -51,11 +51,11 @@
 
 <div align="center">
   
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithJha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=ffffff&cache_seconds=7200)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=CodewithJha&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithJha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&langs_count=10&exclude_repo=CodewithJha&cache_seconds=7200)
+![GitHub Stats](https://raw.githubusercontent.com/CodewithJha/CodewithJha/main/assets/metrics.svg)
+
+![Top Languages](https://raw.githubusercontent.com/CodewithJha/CodewithJha/main/assets/languages.svg)
 
 </div>
 
