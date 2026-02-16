@@ -27,13 +27,13 @@ jobs:
           github_user_name: CodewithJha
           gif_out_path: ./output/github-contribution-grid-snake.gif
           svg_out_path: ./output/github-contribution-grid-snake.svg
-          
-      - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          git diff --staged --quiet || git commit -m "Update snake animation [skip ci]"
-          git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

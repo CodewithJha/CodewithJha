@@ -4,9 +4,9 @@
 
 **Backend-to-DataEng Intern @ Ekacare** | Building ETL pipelines with SQL, Kafka & AWS
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Data+Engineering+Intern+%40+Ekacare;Mastering+SQL+%26+Window+Functions;Kafka+Connector+Specialist;Redshift+%26+AWS+S3+ETL;Backend+Dev+→+Data+Pipeline+Architect;Late-Night+Coder+%281-2AM+Sessions%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Data+Engineering+Intern+%40+Ekacare;Mastering+SQL+%26+Window+Functions;Kafka+Connector+Specialist;Redshift+%26+AWS+S3+ETL;Backend+Dev+→+Data+Pipeline+Architect;Late-Night+Coder+%281-2AM+Sessions%29" alt="Typing SVG" />
 
-![Banner](https://raw.githubusercontent.com/CodewithJha/CodewithJha/main/assets/banner.gif)
+![Banner](./assets/banner.svg)
 
 ---
 
@@ -51,11 +51,11 @@
 
 <div align="center">
   
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodewithJha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=ffffff)
+![Priyanshu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodewithJha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=ffffff&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodewithJha&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CodewithJha&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithJha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&langs_count=10&exclude_repo=CodewithJha)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodewithJha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&langs_count=10&exclude_repo=CodewithJha&cache_seconds=86400)
 
 </div>
 
