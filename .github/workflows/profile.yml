@@ -28,13 +28,16 @@ jobs:
           gif_out_path: ./output/github-contribution-grid-snake.gif
           svg_out_path: ./output/github-contribution-grid-snake.svg
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          color_snake: '#00c647'
+          color_dots: '0:1:2:3:4'
 
       - name: Commit and push snake to main branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git config --local core.autocrlf false
-          git checkout -b output 2>/dev/null || git checkout output
           git add output/
-          git commit -m "Update snake animation [skip ci]" || exit 0
-          git push origin output --force
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update snake animation [skip ci]"
+            git push origin HEAD:main
+          fi
