@@ -2,11 +2,7 @@
 
 # 👋 Hi, I'm Priyanshu Jha
 
-**Backend-to-DataEng Intern @ Ekacare** | Building ETL pipelines with SQL, Kafka & AWS
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Data+Engineering+Intern+%40+Ekacare;Mastering+SQL+%26+Window+Functions;Kafka+Connector+Specialist;Redshift+%26+AWS+S3+ETL;Backend+Dev+→+Data+Pipeline+Architect;Late-Night+Coder+%281-2AM+Sessions%29" alt="Typing SVG" />
-
-![Banner](./assets/banner.svg)
+**Backend Dev Intern @ Ekacare** | Building ETL pipelines with SQL, Kafka & AWS
 
 ---
 
@@ -69,37 +65,6 @@
 [![Repo](https://img.shields.io/badge/Repo-AI--Cloudops-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/AI-Cloudops)
 ![Stars](https://img.shields.io/github/stars/CodewithJha/AI-Cloudops?style=social)
 
-### **Computer Vision Drawing**
-**OpenCV + MediaPipe**
-- Hand-tracking based drawing/erase workflow using webcam input
-
-[![Repo](https://img.shields.io/badge/Repo-computervisiondrawing-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/computervisiondrawing)
-![Stars](https://img.shields.io/github/stars/CodewithJha/computervisiondrawing?style=social)
-
-### **Computer Vision Game**
-**OpenCV + Hand Tracking**
-- Webcam hand-gesture controls for interactive gameplay experiments
-
-[![Repo](https://img.shields.io/badge/Repo-computervisiongame-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/computervisiongame)
-![Stars](https://img.shields.io/github/stars/CodewithJha/computervisiongame?style=social)
-
-### **AWS S3 Browser**
-**Python + Tkinter + boto3**
-- Simple desktop app to browse/manage S3 with a GUI
-
-[![Repo](https://img.shields.io/badge/Repo-awss3-0EA5E9?style=for-the-badge)](https://github.com/CodewithJha/awss3)
-![Stars](https://img.shields.io/github/stars/CodewithJha/awss3?style=social)
-
----
-
-## 💻 Coding Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/CodewithJha/CodewithJha/main/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -142,7 +107,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=CodewithJha&color=0EA5E9&style=for-the-badge&label=Profile+Views)
 
-**💼 Open to PPO Negotiations** | **📍 Bengaluru, India** | **🚀 Seeking Data Engineering Roles 2026**
+**💼 Open to Data Eng Roles** | **📍 Lucknow, India** | **🚀 Seeking Data Engineering Roles 2026**
 
 *Transitioning from Backend Development to Data Engineering | Building scalable ETL pipelines | SQL Wizard | Kafka Enthusiast*
 
