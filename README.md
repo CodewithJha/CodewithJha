@@ -96,7 +96,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/CodewithJha/CodewithJha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
