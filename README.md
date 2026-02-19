@@ -41,8 +41,6 @@
 
 ![GitHub Stats](https://raw.githubusercontent.com/CodewithJha/CodewithJha/main/assets/metrics.svg)
 
-![Top Languages](https://raw.githubusercontent.com/CodewithJha/CodewithJha/main/assets/languages.svg)
-
 </div>
 
 ---
