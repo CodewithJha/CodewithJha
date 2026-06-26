@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Priyanshu Jha
 
-**Backend Dev Intern @ Ekacare** | Building ETL pipelines with SQL, Kafka & AWS
+**AI Engineer Intern @ Dronahq | Backend Dev Intern @ Ekacare** | Building Production Level AI Systems Using Python, Langchain and Langrapgh
 
 ---
 
@@ -105,7 +105,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=CodewithJha&color=0EA5E9&style=for-the-badge&label=Profile+Views)
 
-**📍 Lucknow, India** | **🚀 Seeking Data Engineering Roles 2026**
+**📍 Lucknow, India** | **🚀 Seeking Backend & AI Engineering Roles 2026**
 
 *Transitioning from Backend Development to Data Engineering | Building scalable ETL pipelines | SQL Wizard | Kafka Enthusiast*
 
